@@ -2,25 +2,6 @@
 A variety of algorithms to solve mazes from an input image.
 
 
-
-## About
-# mazesolving
-A variety of algorithms to solve mazes from an input image.
-
-![maze image](examples/logo.png)
-
-## About
-# mazesolving
-A variety of algorithms to solve mazes from an input image.
-
-![maze image](examples/logo.png)
-
-## About
-# mazesolving
-A variety of algorithms to solve mazes from an input image.
-
-![maze image](examples/logo.png)
-
 ## About
 These are the python files associated with the computerphile video on maze solving. Feel free to use, alter, redistribute the code as you see fit.
 
