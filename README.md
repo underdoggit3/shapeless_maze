@@ -1,6 +1,7 @@
 # mazesolving
 A variety of algorithms to solve mazes from an input image.
 
+![maze image](examples/logo.png)
 
 ## About
 These are the python files associated with the computerphile video on maze solving. Feel free to use, alter, redistribute the code as you see fit.
@@ -23,3 +24,4 @@ This was just a side project I did for fun over a couple of evenings, I'm sure t
 - The current format of the test mazes (short paths, very dense) means that in fact dijkstra and a* usually operate more slowly than simple algorithms. In these cases Dijkstra usually performs the same function as breadth first search, but with more computational overhead. There will be some forms of maze where they are significantly faster.
 - Mazes don't need to be square - as long as they are surrounded by black walls. The input image will obviously be square.
 - Large areas of white, using my algorithm, will essentially degenerate into an inefficient flood fill - avoid!
+
